@@ -1,0 +1,9 @@
+import "./index-test";
+import "./models/user.spec";
+import "./models/profile.spec";
+import "./models/comment.spec";
+import "./profile/profile.test";
+import "./comment/comment.test";
+import "./user/user.test";
+import "./admin/activate-user.test";
+import "./admin/de-activate-user.test";
